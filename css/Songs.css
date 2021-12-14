@@ -1,0 +1,51 @@
+body{
+    background-image: url(../img/oblaka_nebo_goluboj_113445_1680x1050.jpg);
+    background-size: 120%;
+    background-attachment: fixed;
+}
+.header{
+    margin:auto;
+    font: bold 24px/34px Helvetica, Sans-Serif;
+    text-transform: uppercase;
+    font-style: italic;
+}
+h3{
+    background-color: rgba(0, 0, 0, 0.534);
+    padding: 10px;
+    color: rgb(245, 222, 179);
+    border-radius: 10px;
+}
+ol{
+    color:rgb(0, 0, 0);
+    background-color: rgba(130, 213, 238, 0.644);
+    font-size: 20px;
+    padding: 40px;
+    margin: 20px;
+    border-radius: 10px;
+}
+li{
+    padding: 10px;   
+}
+table{
+    padding: 40px;
+    vertical-align: top;
+    margin:auto;
+}
+h1{
+    font: bold Helvetica, Sans-Serif;
+    font-style:italic;
+    text-align: center;
+}
+a{
+    background-color: rgb(245, 222, 179);
+}
+aside{
+    background-color: rgba(126, 235, 250, 0.795);
+    border: 5px dashed rgba(60, 223, 245, 0.842);
+    padding: 10px;
+    width: 200px;
+    margin: 20px;
+    border-radius: 10px;
+    font-size: 25px;
+    font-style: italic;
+}
